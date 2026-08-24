@@ -1,1 +1,5 @@
-{"framework":"nextjs","rootDirectory":"apps/customer","installCommand":"npm install","buildCommand":"npm run build"}
+{
+  "framework": "nextjs",
+  "installCommand": "npm install",
+  "buildCommand": "npm run build"
+}
